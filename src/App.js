@@ -1,24 +1,36 @@
-import logo from './logo.svg';
+import { Route, Switch } from 'react-router-dom';
+import firebase from './firebase';
+
+import 'react-toastify/dist/ReactToastify.min.css';
 import './App.css';
+import Home from './screens/Home';
+import Profile from './screens/Profile';
+import { useState } from 'react';
+import { ToastContainer } from 'react-toastify';
+import { Header } from './components/Register.component';
 
 function App() {
+  const [loading, setLoading] = useState(true);
+
+  firebase.auth().onAuthStateChanged((res) => {
+    if (res) {
+      setLoading(false);
+    } else {
+      setLoading(false);
+    }
+  });
+
+  if (loading) {
+    return <Header>Loading...</Header>;
+  }
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <ToastContainer position="top-center" hideProgressBar />
+      <Switch>
+        <Route path="/" exact component={Home} />
+        <Route path="/profile" component={Profile} />
+      </Switch>
+    </>
   );
 }
 
