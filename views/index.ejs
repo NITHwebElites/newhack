@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Med Bazaar</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>
+        MedBazaar
+    </h1>
+    <form method = "POST" action="search">
+        <input type = "text" list = "medicines" name = "input">
+        <datalist id = "medicines">
+            <% params.forEach(function(data){ %>
+                <option>
+                    <%=data%>
+                </option>
+            <%})%>
+        </datalist>
+        
+        <button type = "submit">Compare</button>
+    </form>
+</body>
+
+</html>
