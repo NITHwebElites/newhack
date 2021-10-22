@@ -1,19 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>
-            medicine
-        </title>
-    </head>
-    <body>
-        <h1>
-            <%= name %>
-        </h1>
-        <ul>
-            <%params.forEach(function(med){%>
-                <li>Price: <%=med.price%></li>
-                <li>Company: <%=med.company%></li>
-            <%})%>
-        </ul>
-    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style2.css">
+</head>
+<body>
+    <section class="container">
+        <header>
+            <div class="brandlogo">
+
+            </div>
+            <ul>
+                <li>
+                    <a href="">Working</a>
+                </li>
+                <li>
+                    <a href="">About</a>
+                </li>
+                <li>
+                    <a href="">Contact</a>
+                </li>
+                
+                <li>
+                    <a href="">Github</a>
+                </li>
+            
+            </ul>
+        </header>
+        <div class="main">
+        <input placeholder="Medicine Name Here" type="text">
+        
+    </div>
+    <div class="product-container">
+        <%if(params[0] === undefined){%>
+            <p>No data found</p>
+        <%}%>
+        <%params.forEach(function(med){%>
+            <div class="product_card">
+                <h3 class="product_name"><%= name %></h3>
+            </div>
+            <div class="product_img">
+                <img src=<%=med.image_URL%> alt="">
+            </div>
+            <div class="product_details">
+                <h3> <%=med.company%></h3>
+                <h3 class="price">
+                   <%=med.price%>
+                </h3>
+                <a class="redirect button" href = <%=med.product_URL%>>Visit</a>  
+        <%})%>
+        
+        </div>
+    </div>
+    </section>
+    <footer>
+        <section class="contact">
+            <h2>Fell Free to Contact Us</h2>
+            <input type="text"><button>SEND</button> 
+        </section>
+        <h3>Proudly Using data From</h3>
+        <div class="mnc-container">
+            <div class="mnc"></div>
+            <div class="mnc"></div>
+            <div class="mnc"></div>
+            <div class="mnc"></div>
+            
+        </div>
+        <p>© MedBazzar 2021 | MIT License | Some Rights Reserved</p>
+    </footer>
+    <section class="compare">
+        <h1></h1>
+        <p></p>
+         </section>
+</body>
 </html>
