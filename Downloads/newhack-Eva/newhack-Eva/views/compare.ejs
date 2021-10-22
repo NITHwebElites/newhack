@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            medicine
+        </title>
+    </head>
+    <body>
+        <h1>
+            <%= name %>
+        </h1>
+        <ul>
+            <%params.forEach(function(med){%>
+                <li>Price: <%=med.price%></li>
+                <li>Company: <%=med.company%></li>
+            <%})%>
+        </ul>
+    </body>
+</html>
