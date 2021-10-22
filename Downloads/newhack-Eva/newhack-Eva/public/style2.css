@@ -159,10 +159,12 @@ header li:nth-of-type(4):hover {
     margin-left: 15px;
 }
 .product_name {
-    white-space: nowrap;
+    /* white-space: nowrap; */
     position: absolute;
-    left: 50%;
+    left: 60%;
     transform: translateX(-50%);
+    font-size: 0.8rem;
+    width: 100%;
     
 
 }
@@ -257,18 +259,38 @@ footer h3,p {
     justify-content: space-evenly;
     padding: 2vh 0;
 }
+
 .contact {
-    width: 70%;
+    width: 50%;
     height: 35vh;
     position: absolute;
     transform: translate(-50%,-50%);
     left: 50%;
     top: -1vh;
     color: rgb(44, 44, 44);
-    
+    display: flex;
+    flex-direction: column;
     backdrop-filter: blur(16px) saturate(180%);
     background-color: rgba(255, 255, 255, 0.829);
     border-radius: 12px;
     border: 1px solid rgba(255, 255, 255, 0.125);
     padding: 5vh;
+    background-image: url(./assets//images/person/person5.png);
+    background-size: contain;
+    background-position: 90%;
+    background-repeat: no-repeat ;
+    
+}
+.contact_details input {
+    outline: none;
+    border: 1px solid rgba(128, 128, 128, 0.199);
+    border-radius: 15px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background-color: rgba(255, 255, 255, 0.411);
+    width: 50%;
+    margin: 2vh 0;
+}
+.contact_details button {
+    margin-top: 15px;
 }
