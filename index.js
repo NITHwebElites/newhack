@@ -2,10 +2,12 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const data = require("./data");
 const MedBazaar = require("./models/medicine");
+const Message = require("./models/message");
 const app = express();
 
 app.use(express.static('public'))
-
+app.use(express.json());
+app.use(express.urlencoded());
 app.use(bodyParser.urlencoded({extended: true}));
 app.set("view engine", "ejs");
 
@@ -61,6 +63,19 @@ app.get("/", (req, res) => {
     })
   });
 });
+
+app.post("/message", (req,res)=>{
+  console.log(req.body.message);
+  const msg = new Message({
+    message: req.body.message,
+  });
+  msg.save(function(err){
+    if(!err){
+       console.log("Message saved");
+   }
+  });
+  res.redirect("/");
+})
 
 app.listen(8000, () => {
   console.log("Server is listening to port 8000");

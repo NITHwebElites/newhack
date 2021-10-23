@@ -1,6 +1,6 @@
 let data = [
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "d84f0162-d02e-42ac-96ed-9e4b0aae5f73",
         "pname": "Insulin 40IU/ml Injection",
         "psize": "vial of 10 ml Injection",
@@ -12,7 +12,7 @@ let data = [
         "category": " Human Insulin Basal "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "760bd0e8-bd1a-46de-8aaa-68a1125f342f",
         "pname": "Insuman 100IU Solution for Injection",
         "psize": "disposable pen of 3 ml Solution for Injection",
@@ -24,7 +24,7 @@ let data = [
         "category": " Human Insulin Premix "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "26b91acf-4503-4e55-b420-888ae91a1fc5",
         "pname": "Human Actrapid 40IU/ml Solution for Injection",
         "psize": "vial of 10 ml Solution for Injection",
@@ -36,7 +36,7 @@ let data = [
         "category": " Human Insulin Rapid "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b8a5c23a-86b2-4c29-b99f-411d2d63aed8",
         "pname": "Human Mixtard 70/30 Suspension for Injection 40IU/ml",
         "psize": "vial of 10 ml Suspension for Injection",
@@ -48,7 +48,7 @@ let data = [
         "category": " Human Insulins And Analogues "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "50a4ccaa-6ab2-4069-a7b5-abbc98d5dd17",
         "pname": "Lantus 100IU/ml Solution for Injection",
         "psize": "cartridge of 3 ml Solution for Injection",
@@ -60,7 +60,7 @@ let data = [
         "category": " Insulin Analogues Basal "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a3455b53-50dc-4904-b0f7-0621b83accb6",
         "pname": "Humalog 100IU/ml Solution for Injection",
         "psize": "cartridge of 3 ml Solution for Injection",
@@ -72,7 +72,7 @@ let data = [
         "category": " Insulin Analogues Rapid "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e707b7e5-a88f-4a9a-b529-613f8044414f",
         "pname": "Glycomet 500 SR Tablet",
         "psize": "strip of 20 tablet sr",
@@ -84,7 +84,7 @@ let data = [
         "category": " Oral Antidiabetics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "7cef241b-e1eb-465a-98f9-14dcb2ee7352",
         "pname": "Aldonil Tablet",
         "psize": "strip of 10 tablets",
@@ -96,7 +96,7 @@ let data = [
         "category": " Other Drugs Used In Diabetes "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "08be1e03-33d3-4e0c-ab0b-d2581e455726",
         "pname": "Immulina 800 Tablet",
         "psize": "strip of 10 tablets",
@@ -108,7 +108,7 @@ let data = [
         "category": " All Other Anti Infectives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "744a4bbb-faba-44d8-aeff-c12fa5dd933f",
         "pname": "Secnil Forte Tablet",
         "psize": "strip of 2 tablets",
@@ -120,7 +120,7 @@ let data = [
         "category": " Amebicides "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f8a89a97-0651-46b9-88d2-722f120e6587",
         "pname": "Netromax 300mg Injection",
         "psize": "vial of 3 ml Injection",
@@ -132,7 +132,7 @@ let data = [
         "category": " Aminoglycosides "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c36f9f5d-32a1-4643-9e10-517c0bfbafa9",
         "pname": "Bandy-Plus Chewable Tablet",
         "psize": "strip of 1 Chewable Tablet",
@@ -144,7 +144,7 @@ let data = [
         "category": " Anthelmintics Excluding Schistosomicides "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c6f08ea5-da2d-4c03-9aa6-b8fe83e61719",
         "pname": "Fluvir 75mg Capsule",
         "psize": "strip of 10 capsules",
@@ -156,7 +156,7 @@ let data = [
         "category": " Anti Flu Drugs "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e80a9e41-81ac-4fd6-9cb9-e4c3f1c836f5",
         "pname": "Akurit 4 Tablet",
         "psize": "strip of 10 tablets",
@@ -168,7 +168,7 @@ let data = [
         "category": " Antitubercular Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a3c634ef-6a8b-415f-bb8a-7a7da0212498",
         "pname": "Zoster 800 Tablet",
         "psize": "strip of 10 tablets",
@@ -180,7 +180,7 @@ let data = [
         "category": " Antivirals Excluding Hiv Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1a7684de-bc29-4922-842f-866b234975f4",
         "pname": "Amoxyclav 625 Tablet",
         "psize": "strip of 6 tablets",
@@ -192,7 +192,7 @@ let data = [
         "category": " Broad Spectrum Penicillins "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "7ea05b33-b558-4cbd-bcf9-0c7295b313f5",
         "pname": "Ticarnic  3.1 Injection",
         "psize": "vial of 1 Injection",
@@ -204,7 +204,7 @@ let data = [
         "category": " Carbenicillin And Similar Types "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "221b3628-aaac-4638-a9e9-cfcf019a6b98",
         "pname": "Zifi 200 Tablet",
         "psize": "strip of 10 tablets",
@@ -216,7 +216,7 @@ let data = [
         "category": " Cephalosporins "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "047765ea-7b67-4586-ac77-9959cf8d5dee",
         "pname": "Biomycetin Ear Drop",
         "psize": "packet of 5 ml Ear Drop",
@@ -228,7 +228,7 @@ let data = [
         "category": " Chloramphenicol And Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1ac741fa-74da-4b79-a6b6-b95ad1713e56",
         "pname": "Dapsone Tablet",
         "psize": "bottle of 1000 tablets",
@@ -240,7 +240,7 @@ let data = [
         "category": " Drugs For Treatment Of Lepra "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "df82928e-8be8-4746-99f2-9b6f535c3171",
         "pname": "Norflox 400 Tablet",
         "psize": "strip of 10 tablets",
@@ -252,7 +252,7 @@ let data = [
         "category": " Fluoroquinolones "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "759bde48-95c8-4431-ba72-960d12a010bb",
         "pname": "Tenvir Tablet",
         "psize": "bottle of 30 tablets",
@@ -264,7 +264,7 @@ let data = [
         "category": " Hiv Antivirals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "dc4fb582-b245-437a-8b96-46832b9f7a8b",
         "pname": "Azithral 500 Tablet",
         "psize": "strip of 5 tablets",
@@ -276,7 +276,7 @@ let data = [
         "category": " Macrolides And Similar Types "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "223f5611-b2b2-404b-9639-f895424103df",
         "pname": "Pentids 400 Tablet",
         "psize": "strip of 6 tablets",
@@ -288,7 +288,7 @@ let data = [
         "category": " Medium And Narrow Spectrum Penicillins "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "48217bc5-3ade-4f0f-8e05-412c43006469",
         "pname": "Fosirol Powder",
         "psize": "sachet of 8 gm Powder",
@@ -300,7 +300,7 @@ let data = [
         "category": " Other Antibacterials "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "aed01596-c888-482d-aab2-cfe006177987",
         "pname": "Banocide Forte Tablet",
         "psize": "strip of 30 tablets",
@@ -312,7 +312,7 @@ let data = [
         "category": " Other Anti Parasitic Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "881e83bf-9d31-4354-8ca7-af80b600b608",
         "pname": "Faronem 200 Tablet",
         "psize": "strip of 6 tablets",
@@ -324,7 +324,7 @@ let data = [
         "category": " Other Beta Lactam Antibacterials Excluding Penicillins Cephalosporins "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5b160815-5937-46b0-9168-15160b4f206e",
         "pname": "Nizonide-O Tablet",
         "psize": "strip of 10 tablets",
@@ -336,7 +336,7 @@ let data = [
         "category": " Schistosomicides "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "297c66e1-1c68-4eb0-820a-1ed7c5cb7c60",
         "pname": "Fluka 150 Tablet",
         "psize": "strip of 1 Tablet",
@@ -348,7 +348,7 @@ let data = [
         "category": " Systemic Agents For Fungal Infections "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "3931a92f-8903-42b1-963e-0e2b0b98343b",
         "pname": "Septran C Tablet",
         "psize": "strip of 10 tablets",
@@ -360,7 +360,7 @@ let data = [
         "category": " Systemic Sulphonamides Excluding Trimethoprim Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4020b6d5-6498-48d7-b9d9-bcd48a673572",
         "pname": "Doxt-SL Capsule",
         "psize": "strip of 10 capsules",
@@ -372,7 +372,7 @@ let data = [
         "category": " Tetracyclines And Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "8d2e1d27-623d-4bd9-b5a9-6d768ff87999",
         "pname": "ORNI 500 Tablet",
         "psize": "strip of 10 tablets",
@@ -384,7 +384,7 @@ let data = [
         "category": " Trichomonacides "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "de08348a-c951-4b50-a59b-559d02de942f",
         "pname": "Septran Tablet",
         "psize": "strip of 10 tablets",
@@ -396,7 +396,7 @@ let data = [
         "category": " Trimethoprim And Similar Formulations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b712fc3b-00fe-4531-81a7-29fdcd1ca008",
         "pname": "Lumerax 80 Tablet",
         "psize": "strip of 6 tablets",
@@ -408,7 +408,7 @@ let data = [
         "category": " Other Anti Malarials "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "04c6df87-af70-47b2-83ab-4efa7906f2e2",
         "pname": "Endoxan Tablet",
         "psize": "strip of 10 tablets",
@@ -420,7 +420,7 @@ let data = [
         "category": " Alkylating Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a8660c7e-0e36-4009-bf34-9f456585d77d",
         "pname": "Nintena 150mg Soft Gelatin Capsule",
         "psize": "strip of 10 soft gelatin capsules",
@@ -432,7 +432,7 @@ let data = [
         "category": " All Other Antineoplastics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c8c4ea78-8ae2-45aa-93f4-276e26904c29",
         "pname": "Folitrax 15 Tablet",
         "psize": "strip of 10 tablets",
@@ -444,7 +444,7 @@ let data = [
         "category": " Antimetabolites "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "165a3506-3036-4bda-9927-27a96ad08099",
         "pname": "Adriamycin 50mg Injection",
         "psize": "vial of 1 Injection",
@@ -456,7 +456,7 @@ let data = [
         "category": " Antineoplastic Antibiotics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "46cca4b3-d718-4170-a32b-2a77b9d3c41c",
         "pname": "Exemptia 40mg/0.8ml Injection",
         "psize": "prefilled syringe of 1 Injection",
@@ -468,7 +468,7 @@ let data = [
         "category": " Anti Tnf Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c795fabf-e543-4fba-8525-5ae6629e3938",
         "pname": "Letroz Tablet",
         "psize": "strip of 5 tablets",
@@ -480,7 +480,7 @@ let data = [
         "category": " Cytostatic Hormone Antagonists "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "40504ddb-1cc9-4e20-a798-6c387bcb953f",
         "pname": "Megasty 160mg Tablet",
         "psize": "strip of 10 tablets",
@@ -492,7 +492,7 @@ let data = [
         "category": " Cytostatic Hormones "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ae22aec4-7bee-48a2-b858-e625d962ccc9",
         "pname": "Neukine 300mcg Injection",
         "psize": "prefilled syringe of 1 ml Injection",
@@ -504,7 +504,7 @@ let data = [
         "category": " Immunostimulating Agents Excluding Interferons "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c878b08f-4ab3-4edb-b04e-02da647483bb",
         "pname": "Azoran Tablet",
         "psize": "strip of 10 tablets",
@@ -516,7 +516,7 @@ let data = [
         "category": " Immunosuppressive Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "9f29d2f0-45e0-4a6b-84b9-c43935b129a8",
         "pname": "AVONEX 30 MCG INJECTION",
         "psize": "vial of 1 Injection",
@@ -528,7 +528,7 @@ let data = [
         "category": " Interferons "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c1c6f4a0-a88d-4429-809e-485cd54ffda6",
         "pname": "Neurovin Tablet",
         "psize": "strip of 10 tablets",
@@ -540,7 +540,7 @@ let data = [
         "category": " Vinca Alkaloids And Other Plant Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "61c4fbc6-18a4-45cd-b58d-3abe9c9fd53b",
         "pname": "Kenadion 10mg Injection",
         "psize": "vial of 1 ml Injection",
@@ -552,7 +552,7 @@ let data = [
         "category": " Antagonists Antidotes To Anticoagulants "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1170dfc2-ca2e-4f7d-bf1b-e714b382c2be",
         "pname": "Trenaxa 500 Tablet",
         "psize": "strip of 6 tablets",
@@ -564,7 +564,7 @@ let data = [
         "category": " Antifibrinolytics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4aa9eccc-c5ce-412e-8923-06996fa3917a",
         "pname": "Leucorin Tablet",
         "psize": "strip of 10 tablets",
@@ -576,7 +576,7 @@ let data = [
         "category": " Detoxifying Agents For Antineoplastic Treatment "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ea9d272c-0795-4187-b2ae-fc0263673fdd",
         "pname": "Alburel 20gm Solution for Infusion",
         "psize": "bottle of 100 ml Injection",
@@ -588,7 +588,7 @@ let data = [
         "category": " Dextrans "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "79ac8aac-9be8-4302-bda4-bab68ae7c174",
         "pname": "Eliquis 5mg Tablet",
         "psize": "box of 20 tablets",
@@ -600,7 +600,7 @@ let data = [
         "category": " Direct Factor Xa Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4ec2f633-3ad5-4ecb-8bcd-08b7d5d8bbdc",
         "pname": "Compound Sodium Lacate Infusion",
         "psize": "bottle of 500 ml Infusion",
@@ -612,7 +612,7 @@ let data = [
         "category": " Electrolyte Solutions "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5ec5e0cc-5edd-4ffc-b093-ff553acbd203",
         "pname": "Cresp 40 Injection",
         "psize": "prefilled syringe of 0.4 ml Injection",
@@ -624,7 +624,7 @@ let data = [
         "category": " Erythropoietin Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "92a08bcf-835b-4859-a444-599aa1591c30",
         "pname": "Folvite 5mg Tablet",
         "psize": "strip of 45 tablets",
@@ -636,7 +636,7 @@ let data = [
         "category": " Haematinics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f4cf749a-7cd4-4f44-8f06-897584d89d4e",
         "pname": "Thrombophob Ointment",
         "psize": "tube of 20 gm Ointment",
@@ -648,7 +648,7 @@ let data = [
         "category": " Heparins "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "d0c991ca-2b53-442f-b345-949bec79e523",
         "pname": "Hynidase Injection",
         "psize": "vial of 1 Injection",
@@ -660,7 +660,7 @@ let data = [
         "category": " Hyaluronidase "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1ce05d6e-03e9-4822-a721-307bcce32751",
         "pname": "Desirox 500 Tablet",
         "psize": "bottle of 30 tablets",
@@ -672,7 +672,7 @@ let data = [
         "category": " Iron Chelating Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "07d2a3d6-7388-4d87-a0de-ca674bc06e9e",
         "pname": "Glycine Irrigation 1.5% Infusion",
         "psize": "bottle of 3000 ml Infusion",
@@ -684,7 +684,7 @@ let data = [
         "category": " Irrigating Solutions "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "92ddfeb5-b1b5-4252-b23b-39462bcea1a1",
         "pname": "Neo Hepatex Injection",
         "psize": "vial of 2 ml Injection",
@@ -696,7 +696,7 @@ let data = [
         "category": " Liver Extracts And Combinations With B12 "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a7e89c45-1fe1-4953-b43f-de625458016a",
         "pname": "Hirudal Cream",
         "psize": "tube of 5 gm Cream",
@@ -708,7 +708,7 @@ let data = [
         "category": " Other Antithrombotic Agents Blood "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6132fa34-da18-4e65-b724-efb4f5579b84",
         "pname": "Ecosprin 75 Tablet",
         "psize": "strip of 14 tablets",
@@ -720,7 +720,7 @@ let data = [
         "category": " Platelet Aggregation Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4ffacaf9-9672-4779-84e8-239e4b51e927",
         "pname": "Reliseal Kit",
         "psize": "vial of 0.5 ml Injection",
@@ -732,7 +732,7 @@ let data = [
         "category": " Proteinase Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "346d4fa8-8b3b-4adc-a095-05f4b286ad85",
         "pname": "Neurotol Infusion",
         "psize": "bottle of 300 ml Infusion",
@@ -744,7 +744,7 @@ let data = [
         "category": " Solutions For Osmotic Therapy "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b766e8b1-dd76-41bd-941e-dd3479f4f623",
         "pname": "RL Infusion",
         "psize": "bottle of 500 ml Infusion",
@@ -756,7 +756,7 @@ let data = [
         "category": " Standard Solutions "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "aa23c91e-a0f5-466b-a5a8-f0c952218cd4",
         "pname": "Botroclot Topical Solution",
         "psize": "bottle of 10 ml Solution",
@@ -768,7 +768,7 @@ let data = [
         "category": " Systemic Heamostatics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4dee81bc-75ec-4477-86ae-62675d118f05",
         "pname": "Kenadion 1mg Injection 0.5 ml",
         "psize": "vial of 1 Injection",
@@ -780,7 +780,7 @@ let data = [
         "category": " Vitamin K Antagonists "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "af448e38-0f6e-4617-ad6a-a1aa6e8f70c6",
         "pname": "Triplixam 4mg/1.25mg/5mg Tablet",
         "psize": "strip of 10 tablets",
@@ -792,7 +792,7 @@ let data = [
         "category": " Ace Inhibitors Combined With Anti Hypertensives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "aef2a7a4-37cb-42dc-8a6b-1cd3739e985d",
         "pname": "Coversyl Plus  Tablet",
         "psize": "strip of 10 tablets",
@@ -804,7 +804,7 @@ let data = [
         "category": " Ace Inhibitors Combined With Diuretics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "40b4ee61-644f-449e-a1f1-36b4003a882f",
         "pname": "Cardace 2.5 Tablet",
         "psize": "strip of 15 tablets",
@@ -816,7 +816,7 @@ let data = [
         "category": " Ace Inhibitors Plain "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "588f51f0-2545-4ead-b09c-c9b88275d1b5",
         "pname": "Cardace Protect 5 Tablet",
         "psize": "strip of 10 tablets",
@@ -828,7 +828,7 @@ let data = [
         "category": " Ace Inhibitors Statins Fibrate "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ea641d75-91ba-4e7b-96f6-68beadb985c5",
         "pname": "Vymada 50mg Tablet",
         "psize": "strip of 14 tablets",
@@ -840,7 +840,7 @@ let data = [
         "category": " All Other Cardiac Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "d7d73277-f6e8-40bb-990b-8a1989ebb3be",
         "pname": "Lipaglyn Tablet",
         "psize": "strip of 10 tablets",
@@ -852,7 +852,7 @@ let data = [
         "category": " All Other Cholesterol Triglyceride Regulators "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "9276a209-8e37-4ded-8cf2-4fe5e497e59c",
         "pname": "Telma-R 5 Tablet",
         "psize": "strip of 10 tablets",
@@ -864,7 +864,7 @@ let data = [
         "category": " Angiotensin Ii Antagonists Ace Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "09d1f7c4-a547-4017-bc44-56b3c93de8f5",
         "pname": "Metosartan 50 Tablet ER",
         "psize": "strip of 10 tablet er",
@@ -876,7 +876,7 @@ let data = [
         "category": " Angiotensin Ii Antagonists Beta Blockers "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "385e9382-8a59-4d96-801e-3469737fd498",
         "pname": "Telma-AM Tablet",
         "psize": "strip of 15 tablets",
@@ -888,7 +888,7 @@ let data = [
         "category": " Angiotensin Ii Antagonists Calcium Antagonists "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ce60e58b-5b6d-4534-95ad-8c5ff4e0b394",
         "pname": "Telvas 3D Tablet",
         "psize": "strip of 10 tablets",
@@ -900,7 +900,7 @@ let data = [
         "category": " Angiotensin Ii Antagonists Combined With Anti Hypertensives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c6b74a4f-1aa2-4f79-a1e3-adb322bca22a",
         "pname": "Telma H Tablet",
         "psize": "strip of 15 tablets",
@@ -912,7 +912,7 @@ let data = [
         "category": " Angiotensin Ii Antagonists Diuretics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "d2186883-1688-4234-895a-8e9e99aa500e",
         "pname": "Telma 40 Tablet",
         "psize": "strip of 30 tablets",
@@ -924,7 +924,7 @@ let data = [
         "category": " Angiotensin Ii Antagonists Plain "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f9ea6574-3c90-41ac-8f46-e8572c7dfc85",
         "pname": "Arbitel-AV Tablet",
         "psize": "strip of 10 tablets",
@@ -936,7 +936,7 @@ let data = [
         "category": " Angiotensin Ii Antagonists Statins Fibrate "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6298d322-4cf3-476b-bd50-d1448cf5b7d6",
         "pname": "Flavedon MR Tablet",
         "psize": "strip of 10 tablet mr",
@@ -948,7 +948,7 @@ let data = [
         "category": " Anti Anginals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ff871492-1339-4b8f-8fa0-287315edcf03",
         "pname": "Cordarone Tablet",
         "psize": "strip of 10 tablets",
@@ -960,7 +960,7 @@ let data = [
         "category": " Anti Arrhythmics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "97f3368c-4332-4d02-982e-5fcc08662e26",
         "pname": "Celepid Infusion",
         "psize": "bottle of 250 ml Infusion",
@@ -972,7 +972,7 @@ let data = [
         "category": " Anti Atheroma Preparations Of Natural Origin "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5a97ff7b-193d-4a62-9e5e-5ea86e98b373",
         "pname": "Arkamin Tablet",
         "psize": "strip of 30 tablets",
@@ -984,7 +984,7 @@ let data = [
         "category": " Antihypertensives Non Herbal Centrally Acting "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "2e5ae6ed-f3ec-4c25-95a7-0cc53b9ba6ae",
         "pname": "Minipress XL 5mg Tablet",
         "psize": "strip of 30 tablets",
@@ -996,7 +996,7 @@ let data = [
         "category": " Antihypertensives Non Herbal Peripherally Acting "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "40d3fe95-c513-4424-8300-3a97d0ca7942",
         "pname": "BP AT 5mg/50mg Tablet",
         "psize": "strip of 10 tablets",
@@ -1008,7 +1008,7 @@ let data = [
         "category": " Beta Blockers Combined With Calcium Antagonists "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6b7c200e-c42b-4501-922f-cfb36a0a0338",
         "pname": "Lodoz 2.5 Tablet",
         "psize": "strip of 10 tablets",
@@ -1020,7 +1020,7 @@ let data = [
         "category": " Beta Blockers Combined With Diuretics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5cb265a1-172b-40a5-9fdc-bbad2b6e06ab",
         "pname": "A2  Tablet",
         "psize": "strip of 10 tablets",
@@ -1032,7 +1032,7 @@ let data = [
         "category": " Beta Blockers Statins Fibrate "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f81dac2e-bf2a-4cfd-9481-f6548b8685bd",
         "pname": "Prolomet R 25 Tablet ER",
         "psize": "strip of 10 tablet er",
@@ -1044,7 +1044,7 @@ let data = [
         "category": " Beta Blocking Agents Combined With Ace Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "86f82bb9-fc35-4b41-91ed-e562038c8867",
         "pname": "Concor COR 2.5 Tablet",
         "psize": "strip of 10 tablets",
@@ -1056,7 +1056,7 @@ let data = [
         "category": " Beta Blocking Agents Plain "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "055f202d-07c0-4716-bd28-ae0d39584323",
         "pname": "Coversyl-AM 4/5 Tablet",
         "psize": "strip of 10 tablets",
@@ -1068,7 +1068,7 @@ let data = [
         "category": " Calcium Antagonists Combined With Ace Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "48e0da2b-953c-4d7d-a854-06ad6e5c5054",
         "pname": "Cilacar C Tablet",
         "psize": "strip of 10 tablets",
@@ -1080,7 +1080,7 @@ let data = [
         "category": " Calcium Antagonists Combined With Anti Hypertensives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e6533e72-fe04-45cf-b422-afb54ab43c02",
         "pname": "Amlong-H Tablet",
         "psize": "strip of 15 tablets",
@@ -1092,7 +1092,7 @@ let data = [
         "category": " Calcium Antagonists Combined With Diuretics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "25ab604b-ed18-4188-a5ad-85558dc8dcce",
         "pname": "Cilacar 10 Tablet",
         "psize": "strip of 10 tablets",
@@ -1104,7 +1104,7 @@ let data = [
         "category": " Calcium Antagonists Plain "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "789b873b-e71c-41fd-ba90-9c9d5abc539e",
         "pname": "Modlip-AM Tablet",
         "psize": "strip of 10 tablets",
@@ -1116,7 +1116,7 @@ let data = [
         "category": " Calcium Antagonists Statins Fibrate "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e6bc78de-6d60-4a5a-a346-79d5d927896d",
         "pname": "Lanoxin Tablet",
         "psize": "strip of 10 tablets",
@@ -1128,7 +1128,7 @@ let data = [
         "category": " Cardiac Glycosides And Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "7ff29bc0-af46-4edb-8d8b-e04b7d9f2041",
         "pname": "Termin 30mg Injection",
         "psize": "vial of 10 ml Injection",
@@ -1140,7 +1140,7 @@ let data = [
         "category": " Cardiac Stimulants Excluding Cardiac Glycosides "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "086ae910-4b0f-4579-8e82-5a0de29a7e22",
         "pname": "Lasilactone  50 Tablet",
         "psize": "strip of 10 tablets",
@@ -1152,7 +1152,7 @@ let data = [
         "category": " Combination Of Two Diuretics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "560db762-00a2-4eb0-aa68-826f1b5edc7b",
         "pname": "Ivabrad 5 Tablet",
         "psize": "strip of 15 tablets",
@@ -1164,7 +1164,7 @@ let data = [
         "category": " Coronary Therapy Excluding Calcium Antagonists And Nitrites "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5d1f1a37-69a8-4740-9779-26108b5805b8",
         "pname": "Novoseven 2mg Injection",
         "psize": "vial of 1 Injection",
@@ -1176,7 +1176,7 @@ let data = [
         "category": " Direct Thrombin Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "eb95eed9-f063-4d95-b071-4d92d1e57bd7",
         "pname": "Lipicard 160 Tablet",
         "psize": "strip of 10 tablets",
@@ -1188,7 +1188,7 @@ let data = [
         "category": " Fibrates "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a755a350-5e1d-4c3c-b592-4017ed3611d8",
         "pname": "STANLIP EZ TABLET",
         "psize": "strip of 10 tablets",
@@ -1200,7 +1200,7 @@ let data = [
         "category": " Fibrates Combination "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "94f3296e-b51c-41d8-a74e-107e91b682f3",
         "pname": "Elaxim 40 Injection",
         "psize": "vial of 1 Injection",
@@ -1212,7 +1212,7 @@ let data = [
         "category": " Fibrinolytics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1f9661ec-25b9-4cbc-92f3-cb76d42e1341",
         "pname": "Choltran Powder for Oral Suspension",
         "psize": "sachet of 5 gm Granules",
@@ -1224,7 +1224,7 @@ let data = [
         "category": " Ion Exchange Resin "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e9a6bb48-aed5-4e39-8723-3f09c01e0f02",
         "pname": "Lasix Tablet",
         "psize": "strip of 15 tablets",
@@ -1236,7 +1236,7 @@ let data = [
         "category": " Loop Diuretics Plain "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "92b7b4ec-9789-42cc-b6a6-c0c97b7119ce",
         "pname": "Sorbitrate 5 Tablet",
         "psize": "strip of 50 Sublingual tablet",
@@ -1248,7 +1248,7 @@ let data = [
         "category": " Nitrites And Nitrates "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f3e4f50c-ba8a-4b57-9ab0-366b1edd70b9",
         "pname": "Xarelto 10mg Tablet",
         "psize": "strip of 7 tablets",
@@ -1260,7 +1260,7 @@ let data = [
         "category": " Other Antithrombotic Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "68ab4c0b-0292-4cdc-bd69-a6a80c2ac58d",
         "pname": "Prolomet AM 50 Tablet PR",
         "psize": "strip of 10 Tablet pr",
@@ -1272,7 +1272,7 @@ let data = [
         "category": " Other Beta Blocking Agent Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "341779a5-043e-48f5-aba2-1b18b455e4c8",
         "pname": "Daflon 500 MG Tablet",
         "psize": "strip of 10 tablets",
@@ -1284,7 +1284,7 @@ let data = [
         "category": " Other Cardiovascular Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f2bbb982-60c2-4d76-8140-c111948d524e",
         "pname": "Mannitol 20% Infusion",
         "psize": "bottle of 350 ml Infusion",
@@ -1296,7 +1296,7 @@ let data = [
         "category": " Other Diuretics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "47700f30-0762-42ee-81db-61fe18fd2a6e",
         "pname": "Milrineon 10mg Injection",
         "psize": "vial of 10 ml Injection",
@@ -1308,7 +1308,7 @@ let data = [
         "category": " Positive Inotropic Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "209d2d07-4bff-4ad8-ad60-f1a5f215a80b",
         "pname": "Aldactone Tablet",
         "psize": "strip of 15 tablets",
@@ -1320,7 +1320,7 @@ let data = [
         "category": " Potassium Sparing Agents Plain "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "67b5b2f9-af3d-4ba6-88e2-086df98e4d4e",
         "pname": "Rasilez 150mg Tablet FC",
         "psize": "strip of 7 Tablet FC",
@@ -1332,7 +1332,7 @@ let data = [
         "category": " Renin Inhibitor "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6acf78d5-78d0-4f62-aa78-76a6a41d01e8",
         "pname": "Rasilez Hct 150 mg/12.5 mg Tablet",
         "psize": "strip of 7 tablets",
@@ -1344,7 +1344,7 @@ let data = [
         "category": " Renin Inhibitor Combined With Anti Hypertensives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "74f188f2-1478-440b-9f01-2a47f066b887",
         "pname": "Rosuvas 10 Tablet",
         "psize": "strip of 15 tablets",
@@ -1356,7 +1356,7 @@ let data = [
         "category": " Statins "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "644248ef-82d9-4ff9-8fdd-6d55f8e794d8",
         "pname": "Tonact-TG Tablet",
         "psize": "strip of 15 tablets",
@@ -1368,7 +1368,7 @@ let data = [
         "category": " Statins Combination "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b6c26cf7-8326-4d8c-8849-6b9a86148a92",
         "pname": "Ecosprin-AV 75 Capsule",
         "psize": "strip of 15 capsules",
@@ -1380,7 +1380,7 @@ let data = [
         "category": " Statins Combined With Anti Platelet Drugs "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f10b060a-7692-4f61-b6d3-7a8d1c851d6d",
         "pname": "Roseday-EZ Tablet",
         "psize": "strip of 10 tablets",
@@ -1392,7 +1392,7 @@ let data = [
         "category": " Statins Combined With Ezetimibe "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f3e495e2-27db-4c30-b1b1-1e6fcf473aa0",
         "pname": "Rosuvas F 10 Tablet",
         "psize": "strip of 15 tablets",
@@ -1404,7 +1404,7 @@ let data = [
         "category": " Statins Combined With Fibrates "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "0fce4017-a1b0-43b9-b9ea-d7fae7929aa9",
         "pname": "Ramitorva   Capsule",
         "psize": "strip of 10 capsules",
@@ -1416,7 +1416,7 @@ let data = [
         "category": " Statins Combined With Other Lipid Regulators "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "2a72ce96-a6f3-4929-988c-10120cbc14a9",
         "pname": "Dytor 10 Tablet",
         "psize": "strip of 15 tablets",
@@ -1428,7 +1428,7 @@ let data = [
         "category": " Thiazides And Analogues Plain "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "63fbffe1-a5ad-47b8-a066-8f8e245a06dc",
         "pname": "Smuth Cream",
         "psize": "tube of 30 gm Rectal Cream",
@@ -1440,7 +1440,7 @@ let data = [
         "category": " Topical Anti Haemorrhoidals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "21207e66-1b08-4a45-ae31-5bd93e3252e5",
         "pname": "Acitrom 2 Tablet",
         "psize": "strip of 30 tablets",
@@ -1452,7 +1452,7 @@ let data = [
         "category": " Vitamin K Antagonists Cardiac "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "131445b1-8232-4564-8358-d4fe0158b818",
         "pname": "C Win Cream",
         "psize": "tube of 30 gm Cream",
@@ -1464,7 +1464,7 @@ let data = [
         "category": " Anti Dandruff "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1bf502ad-fd7a-4aa2-855a-6e0ac48721fe",
         "pname": "Hadensa Ointment",
         "psize": "tube of 40 gm Ointment",
@@ -1476,7 +1476,7 @@ let data = [
         "category": " Anti Pruritics Including Topical Antihistamines Anaesthetics Etc "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4aa95a6f-71b0-4602-9751-df868980c12e",
         "pname": "Hexidine Mouth Wash",
         "psize": "bottle of 160 ml Mouth Wash",
@@ -1488,7 +1488,7 @@ let data = [
         "category": " Antiseptics And Disinfectants Human Use "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "174a9fbf-280b-4778-8956-8b42d3c170a3",
         "pname": "Skinshine Cream",
         "psize": "tube of 15 gm Cream",
@@ -1500,7 +1500,7 @@ let data = [
         "category": " Demelanising Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "2a3384bc-68f1-44fd-a004-c6be4093152d",
         "pname": "Crotorax Cream",
         "psize": "tube of 20 gm Cream",
@@ -1512,7 +1512,7 @@ let data = [
         "category": " Ectoparasiticides Including Scabicides "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "86d311a5-aab0-40bf-99f4-6922d873ad6f",
         "pname": "Moiz XL Cream",
         "psize": "jar of 500 gm Cream",
@@ -1524,7 +1524,7 @@ let data = [
         "category": " Emollients Protectives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4aa723f6-6316-47e8-9a29-52d41626f5c1",
         "pname": "Mintop Forte 5% Solution",
         "psize": "bottle of 60 ml Solution",
@@ -1536,7 +1536,7 @@ let data = [
         "category": " Haircare Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "00fa6234-2559-4bf6-8dfc-39e3ea424da6",
         "pname": "Melanocyl Solution",
         "psize": "bottle of 25 ml Solution",
@@ -1548,7 +1548,7 @@ let data = [
         "category": " Melanising Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "079d75fe-a77e-4035-8917-7f8122e1ee03",
         "pname": "Isotroin 20 Capsule",
         "psize": "strip of 10 soft gelatin capsules",
@@ -1560,7 +1560,7 @@ let data = [
         "category": " Oral Anti Acne Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "7876f115-82c1-49df-ac2a-60b79a473047",
         "pname": "Burnheal Cream",
         "psize": "tube of 15 gm Cream",
@@ -1572,7 +1572,7 @@ let data = [
         "category": " Other Dermatological Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "8e6ef2a1-2f05-4f0f-ac4b-20a6eecd8f93",
         "pname": "Pacroma Cream",
         "psize": "tube of 10 gm Cream",
@@ -1584,7 +1584,7 @@ let data = [
         "category": " Other Non Steroidal Products For Inflammatory Skin Disorders "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f3b69da2-f27c-4783-b31f-e45aa9fd0db2",
         "pname": "Kenacort 40mg Injection",
         "psize": "vial of 1 ml Injection",
@@ -1596,7 +1596,7 @@ let data = [
         "category": " Plain Topical Corticosteroids "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "8c0b97e6-86f7-41e3-bbb4-e68596b4c911",
         "pname": "Hairmax Forte Solution",
         "psize": "bottle of 60 ml Solution",
@@ -1608,7 +1608,7 @@ let data = [
         "category": " Skin Dermal Epidermal Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5dd9bd7e-45b8-4a28-a09e-b3d58f9b86e1",
         "pname": "Acrotac 25mg Capsule",
         "psize": "strip of 20 capsules",
@@ -1620,7 +1620,7 @@ let data = [
         "category": " Systemic Antipsoriasis Prodcuts "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "051be9c3-67bf-4f3b-8175-9c68cd94c206",
         "pname": "Persol  AC 2.5 Gel",
         "psize": "tube of 30 gm Gel",
@@ -1632,7 +1632,7 @@ let data = [
         "category": " Topical Anti Acne Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1ca3e067-3366-4264-99dc-cdec5b8424c6",
         "pname": "Soframycin 1% Skin Cream",
         "psize": "tube of 30 gm Cream",
@@ -1644,7 +1644,7 @@ let data = [
         "category": " Topical Antibiotics And Or Sulphonamids "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6e766b90-cebb-4cde-8e81-e3f3f13d922b",
         "pname": "Sorvate C Ointment",
         "psize": "tube of 15 gm Ointment",
@@ -1656,7 +1656,7 @@ let data = [
         "category": " Topical Antipsoriasis Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b600d757-d569-4297-b839-d9aa8cde570a",
         "pname": "Acivir Cream",
         "psize": "tube of 5 gm Cream",
@@ -1668,7 +1668,7 @@ let data = [
         "category": " Topical Antivirals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5c6ff144-91fc-4da8-8a3e-f749f65c4db4",
         "pname": "Terbinaforce-Plus NF Cream",
         "psize": "tube of 15 gm Cream",
@@ -1680,7 +1680,7 @@ let data = [
         "category": " Topical Corticosteroid Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b71be4f0-3cf5-4fdb-b007-41a8a5023623",
         "pname": "Fungicros Cream",
         "psize": "tube of 10 gm Cream",
@@ -1692,7 +1692,7 @@ let data = [
         "category": " Topical Dermatological Antifungals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "8670912f-82ae-4142-99f3-70748df1e962",
         "pname": "Redotil 100mg Capsule",
         "psize": "strip of 15 capsules",
@@ -1704,7 +1704,7 @@ let data = [
         "category": " All Other Antidiarrhoeals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "24eeea37-a627-4a1d-8e93-cb185b400c11",
         "pname": "Mucaine Gel Mint",
         "psize": "bottle of 200 ml Oral Gel",
@@ -1716,7 +1716,7 @@ let data = [
         "category": " All Other Anti Ulcerants "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "0abb266a-bc7e-4204-b505-ee00df00ad71",
         "pname": "Amicline Tablet",
         "psize": "strip of 10 tablets",
@@ -1728,7 +1728,7 @@ let data = [
         "category": " Amebicides Gastro "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "bf2a31bb-ce51-4633-9ab7-17bb8c9feaea",
         "pname": "Ondem -MD 4 Tablet",
         "psize": "strip of 10 tablet md",
@@ -1740,7 +1740,7 @@ let data = [
         "category": " Antacids Antiflatulents And Carminatives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ccd70528-2f01-45a8-b935-80056fc1aebd",
         "pname": "Econorm 250mg Capsule",
         "psize": "strip of 5 capsules",
@@ -1752,7 +1752,7 @@ let data = [
         "category": " Antidiarrhoeal Micro Organisms "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f504ac15-5b23-4ae8-a086-ef4519573301",
         "pname": "Cyclopam Tablet",
         "psize": "strip of 10 tablets",
@@ -1764,7 +1764,7 @@ let data = [
         "category": " Antispasmodic Analgesic Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e3203974-bd82-4442-8698-d6508369a52e",
         "pname": "Normaxin Tablet",
         "psize": "strip of 10 tablets",
@@ -1776,7 +1776,7 @@ let data = [
         "category": " Antispasmodic Ataractic Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b91dc08f-df6c-442d-a4b4-65bdea865cdd",
         "pname": "Drotin-M Tablet",
         "psize": "strip of 10 tablets",
@@ -1788,7 +1788,7 @@ let data = [
         "category": " Antispasmodics Combined With Other Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "003bd581-088e-44b3-aa4e-a875e8946cd1",
         "pname": "Omee Capsule",
         "psize": "packet of 20 capsules",
@@ -1800,7 +1800,7 @@ let data = [
         "category": " Anti Ulcerants Acid Pump Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "74df01ab-356e-4c41-8072-f716dcff9007",
         "pname": "Aciloc 150 Tablet",
         "psize": "strip of 30 tablets",
@@ -1812,7 +1812,7 @@ let data = [
         "category": " Anti Ulcerants H2 Antagonists "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b398c7d4-aa08-44e1-8798-57fba323c0ae",
         "pname": "Misoprost 200 Tablet",
         "psize": "strip of 4 tablets",
@@ -1824,7 +1824,7 @@ let data = [
         "category": " Anti Ulcerants Prostaglandins "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6c889f41-960f-499b-9989-17cf0a162e1a",
         "pname": "Pantocid HP Combipack",
         "psize": "strip of 6 tablets",
@@ -1836,7 +1836,7 @@ let data = [
         "category": " Anti Ulcerants With Antibiotics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "2bbd7b49-b94f-4513-82ef-226ac344e28f",
         "pname": "Udiliv 300 Tablet",
         "psize": "strip of 15 tablets",
@@ -1848,7 +1848,7 @@ let data = [
         "category": " Bile Therapy And Cholagogues Bile Stone Therapy "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "3ea1cf16-5bee-4050-bbdd-fb782f69d335",
         "pname": "Lactifiber  Granules",
         "psize": "box of 180 gm Granules",
@@ -1860,7 +1860,7 @@ let data = [
         "category": " Bulk Producers "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b5a8cc50-0ce8-4556-8021-79a2761ce78e",
         "pname": "Liv Pure DS Syrup",
         "psize": "bottle of 200 ml Syrup",
@@ -1872,7 +1872,7 @@ let data = [
         "category": " Cholagogue Lipotropic Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "256fdd40-8d94-44eb-aa07-9603be3da0cf",
         "pname": "Cremaffin Plus  Syrup Refreshing Sugar Free",
         "psize": "bottle of 225 ml Syrup",
@@ -1884,7 +1884,7 @@ let data = [
         "category": " Contact Laxatives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "823a3e54-e689-44d4-a487-4d69430af144",
         "pname": "Camopan 100mg Tablet",
         "psize": "strip of 10 tablets",
@@ -1896,7 +1896,7 @@ let data = [
         "category": " Drugs For Pancreatic Disorder "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "975fd36f-c7ed-4750-9f25-be726f52dc1a",
         "pname": "Osil Cream",
         "psize": "tube of 30 gm Rectal Cream",
@@ -1908,7 +1908,7 @@ let data = [
         "category": " Enemas "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "731415b3-ef8a-4a94-92da-5dcd925df25f",
         "pname": "Lupizyme SF Syrup Sugar Free",
         "psize": "bottle of 200 ml Syrup",
@@ -1920,7 +1920,7 @@ let data = [
         "category": " Enzyme Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "db45ccd0-70e6-4629-906d-4ab0c00ab5b0",
         "pname": "TAGON 6 MG TABLET",
         "psize": "strip of 10 tablets",
@@ -1932,7 +1932,7 @@ let data = [
         "category": " Gastro Intestinal Sensorimotor Modulators "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1ac5798b-c56c-46ff-a6ba-62a9ad17f495",
         "pname": "Pan-D Capsule PR",
         "psize": "strip of 15 capsule pr",
@@ -1944,7 +1944,7 @@ let data = [
         "category": " Gastroprokinetics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "36dcc5c5-cfd7-4d4c-ae67-c75fd8950983",
         "pname": "Reheptin Tablet",
         "psize": "strip of 10 tablets",
@@ -1956,7 +1956,7 @@ let data = [
         "category": " Hepatic Protectors Lipotropics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "8b658c90-1989-468b-b44b-a8200c6fc3fc",
         "pname": "Metrogyl 400 Tablet",
         "psize": "strip of 15 tablets",
@@ -1968,7 +1968,7 @@ let data = [
         "category": " Intestinal Anti Infective Antidiarrhoeals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "be1a7ab2-af05-4246-98ac-7016ea0788a8",
         "pname": "VSL 3 Capsule",
         "psize": "strip of 10 capsules",
@@ -1980,7 +1980,7 @@ let data = [
         "category": " Intestinal Anti Inflammatory Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6ef91ea1-db0f-4eb4-a52c-58323ca44b4d",
         "pname": "Imodium Capsule",
         "psize": "strip of 4 capsules",
@@ -1992,7 +1992,7 @@ let data = [
         "category": " Motility Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b4511cec-3471-499b-9848-31441150255a",
         "pname": "Looz Peg Oral Solution Orange",
         "psize": "bottle of 200 ml Oral Solution",
@@ -2004,7 +2004,7 @@ let data = [
         "category": " Oral Saline Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "9633d638-ddc2-4c80-ac7a-a6f264a4216f",
         "pname": "Doxinate Tablet",
         "psize": "strip of 30 tablets",
@@ -2016,7 +2016,7 @@ let data = [
         "category": " Other Antiemetics And Antinauseants "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f6d8375c-2325-48dc-85d2-f5e7ce252d04",
         "pname": "Smuth Oral Suspension",
         "psize": "bottle of 110 ml Oral Suspension",
@@ -2028,7 +2028,7 @@ let data = [
         "category": " Other Laxatives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "2170e522-2be7-4b9d-80dd-43b449b2e845",
         "pname": "Ulsedin Tablet",
         "psize": "strip of 10 tablets",
@@ -2040,7 +2040,7 @@ let data = [
         "category": " Other Stomac Disorder Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c48ef2d3-699b-4290-8b43-d17834dc6274",
         "pname": "Enzar Forte  Tablet",
         "psize": "strip of 15 tablets",
@@ -2052,7 +2052,7 @@ let data = [
         "category": " Pancreatic Enzymes "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "356951e1-5329-40a9-b83d-31eb5bc42b9e",
         "pname": "Ibset Tablet",
         "psize": "strip of 10 tablets",
@@ -2064,7 +2064,7 @@ let data = [
         "category": " Serotonin Antagonist Antiemetics Antinauseants "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "0ac0479c-244c-4d66-84a4-2056f0f382c4",
         "pname": "Duphalac Oral Solution Lemon",
         "psize": "bottle of 450 ml Oral Solution",
@@ -2076,7 +2076,7 @@ let data = [
         "category": " Softners Emollients "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "641de820-102a-4250-ae57-070e0987de0e",
         "pname": "Tinicline 250 mg/300 mg Tablet",
         "psize": "strip of 10 tablets",
@@ -2088,7 +2088,7 @@ let data = [
         "category": " Tetracyclines And Combinations Gastro "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "2552cb46-9d34-4e0c-a120-077d0dcc10e6",
         "pname": "Clingen Forte  Vaginal Capsule",
         "psize": "packet of 7 Vaginal Capsules",
@@ -2100,7 +2100,7 @@ let data = [
         "category": " Agents For Fungal Infections "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a81cd224-2999-458c-93e5-2c65a07f96ce",
         "pname": "Provironum Tablet",
         "psize": "strip of 10 tablets",
@@ -2112,7 +2112,7 @@ let data = [
         "category": " Androgens Excluding G3 E G3 F "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "13a36ea7-8f2a-4fbc-b578-d34b273920ee",
         "pname": "Hcg 5000IU Injection",
         "psize": "vial of 1 Injection",
@@ -2124,7 +2124,7 @@ let data = [
         "category": " Gonadotrophins Including Other Ovulation Stimulants "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "58a42152-bc8f-42a4-811a-ed514438ec2b",
         "pname": "Fas 3 Kit",
         "psize": "packet of 1 Kit",
@@ -2136,7 +2136,7 @@ let data = [
         "category": " Gynaecological Antibiotics Sulphonamides "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b5a90c84-5e47-42e6-8cf5-f7f42f12f407",
         "pname": "Orofer FCM Injection",
         "psize": "vial of 10 ml Injection",
@@ -2148,7 +2148,7 @@ let data = [
         "category": " Haematinics Iron And All Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "cdbc7dd9-d050-46ca-a512-be3c1e9061ef",
         "pname": "Primolut-N Tablet",
         "psize": "strip of 10 tablets",
@@ -2160,7 +2160,7 @@ let data = [
         "category": " Hormonal Contraceptives Systemic "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5b0e2585-5107-4416-bf73-d38e86f64ec1",
         "pname": "Methergin Tablet",
         "psize": "strip of 10 tablets",
@@ -2172,7 +2172,7 @@ let data = [
         "category": " Labour Inducers "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ea55e758-e354-406f-aa7e-395ca184e714",
         "pname": "Duvadilan Tablet",
         "psize": "strip of 50 tablets",
@@ -2184,7 +2184,7 @@ let data = [
         "category": " Labour Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "052cfaeb-67c7-4731-9378-c5b23709a7ab",
         "pname": "Alivher ES Tablet",
         "psize": "strip of 10 tablets",
@@ -2196,7 +2196,7 @@ let data = [
         "category": " Oestrogens Excluding G3 A G3 E G3 F "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "20a99600-ac5a-4f42-9254-a54a10e36892",
         "pname": "Novelon Tablet",
         "psize": "strip of 21 tablets",
@@ -2208,7 +2208,7 @@ let data = [
         "category": " Oestrogen With Progestogen Combinations Excluding G3 A "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c64ba7a2-4efe-4652-b26a-ef88360340ff",
         "pname": "Diane 35 Tablet",
         "psize": "strip of 21 tablets",
@@ -2220,7 +2220,7 @@ let data = [
         "category": " Other Gynaecological Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "3fcc0940-4897-4a7a-a4cf-c8c1acc868f8",
         "pname": "Unwanted Kit Tablet",
         "psize": "strip of 1 Tablet",
@@ -2232,7 +2232,7 @@ let data = [
         "category": " Other Sex Hormones And Similar Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ece9050b-592b-461e-afb0-cab05617f808",
         "pname": "Susten 100 Injection",
         "psize": "ampoule of 1 ml Injection",
@@ -2244,7 +2244,7 @@ let data = [
         "category": " Progestogens Excluding G3 A G3 F "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a177a640-8a74-42e7-99cf-ee1cd0da22bf",
         "pname": "Cabgolin 0.5 Tablet",
         "psize": "strip of 4 tablets",
@@ -2256,7 +2256,7 @@ let data = [
         "category": " Prolactin Inhibitors "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "db992ea3-886b-4b33-9b0c-7858c2537fb1",
         "pname": "Sevista Tablet",
         "psize": "strip of 15 tablets",
@@ -2268,7 +2268,7 @@ let data = [
         "category": " Selective Oestrogen Receptor Modulators Serms "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b056bb89-95b1-4530-8437-98926773f760",
         "pname": "Acton Prolongatum 60IU Injection",
         "psize": "vial of 5 ml Injection",
@@ -2280,7 +2280,7 @@ let data = [
         "category": " Acth "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "dfe83b84-778b-414d-8152-51c174880df5",
         "pname": "Deca-Durabolin 50 Injection",
         "psize": "ampoule of 1 ml Injection",
@@ -2292,7 +2292,7 @@ let data = [
         "category": " Anabolic Hormones Systemic "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b0f456f9-08f9-45b6-935d-6f0b0c83bbda",
         "pname": "Minirin 0.1mg Tablet",
         "psize": "bottle of 15 tablets",
@@ -2304,7 +2304,7 @@ let data = [
         "category": " Antidiuretic Hormones "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c0b3aea7-5e2c-4819-916b-85b006974c2f",
         "pname": "Cetrotide 0.25mg Injection",
         "psize": "vial of 1 Injection",
@@ -2316,7 +2316,7 @@ let data = [
         "category": " Antigonadotrphin Releasing Hormones "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5a924007-0e80-49ed-9878-2e91d736e2bd",
         "pname": "Octride Lactic Acid Formula 50mcg Injection",
         "psize": "vial of 1 Injection",
@@ -2328,7 +2328,7 @@ let data = [
         "category": " Antigrowth Hormones "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "bfdfb52b-1eab-4274-a537-5d9d91c95dc5",
         "pname": "Terifrac Injection",
         "psize": "cartridge of 3 ml Injection",
@@ -2340,7 +2340,7 @@ let data = [
         "category": " Anti Osteoporotic Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "050741fd-1978-4b19-a265-572ee4592a2b",
         "pname": "Defcort 6 Tablet",
         "psize": "strip of 10 tablets",
@@ -2352,7 +2352,7 @@ let data = [
         "category": " Anti Rheumatics Corticosteroid Combinations Systemic "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c76fa5e6-6aaa-4490-b967-d0727ff18c36",
         "pname": "Neo-Mercazole 10 Tablet",
         "psize": "bottle of 100 tablets",
@@ -2364,7 +2364,7 @@ let data = [
         "category": " Anti Thyroid Preparation "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "664bf339-6003-4d0e-8e3e-f446620e6c97",
         "pname": "Glucagen 1mg Injection",
         "psize": "vial of 1 Injection",
@@ -2376,7 +2376,7 @@ let data = [
         "category": " Glucagon "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c5c5e3ab-6785-4985-9f57-b2776a352cf6",
         "pname": "Decapeptyl 0.1mg Injection",
         "psize": "vial of 1 ml Injection",
@@ -2388,7 +2388,7 @@ let data = [
         "category": " Gonadotrophin Releasing Hormones Not Used As Cytostatics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "7d6485dc-4a16-4c3c-8648-fa28d87f45b3",
         "pname": "Regen-D 150 Gel",
         "psize": "tube of 15 gm Gel",
@@ -2400,7 +2400,7 @@ let data = [
         "category": " Growth Hormones "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "545d7646-fa59-47aa-90d9-5fcc8a85efec",
         "pname": "Gluyell Sachet",
         "psize": "packet of 15 gm Sachet",
@@ -2412,7 +2412,7 @@ let data = [
         "category": " Other Anabolic Agents Systemic "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "09d2432e-2c57-4d89-8866-44882534e6a4",
         "pname": "Dexona Tablet",
         "psize": "strip of 20 tablets",
@@ -2424,7 +2424,7 @@ let data = [
         "category": " Systemic Corticosteroids Plain "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "919c29ef-89d2-4d80-856d-1c78f7f1b614",
         "pname": "Thyronorm 25mcg Tablet",
         "psize": "bottle of 120 tablets",
@@ -2436,7 +2436,7 @@ let data = [
         "category": " Thyroid Preparation "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "9037a569-ae09-4a47-ba0e-9346abb472b4",
         "pname": "Dubinor Tablet",
         "psize": "strip of 10 tablets",
@@ -2448,7 +2448,7 @@ let data = [
         "category": " All Other Cns Drugs "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b7925e89-273c-495f-94a1-d2a714451215",
         "pname": "Strocit Plus Tablet",
         "psize": "strip of 10 tablets",
@@ -2460,7 +2460,7 @@ let data = [
         "category": " Anti Alzheimer Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "43ea1f3c-f01b-4d57-a598-f51413e13697",
         "pname": "Tryptomer 10mg Tablet",
         "psize": "strip of 30 tablets",
@@ -2472,7 +2472,7 @@ let data = [
         "category": " Anti Depressants And Mood Stabilisers "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e1897487-0f0a-4921-8b00-84ac3f8eb2cb",
         "pname": "Levipil 500 Tablet",
         "psize": "strip of 10 tablets",
@@ -2484,7 +2484,7 @@ let data = [
         "category": " Anti Epileptics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e955658e-0d6b-4ac3-b0ad-cc5908513e70",
         "pname": "Vasograin Tablet",
         "psize": "strip of 14 tablets",
@@ -2496,7 +2496,7 @@ let data = [
         "category": " Anti Migraine Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "83da2abf-c50c-4687-a14e-28e837e84b76",
         "pname": "Pacitane Tablet",
         "psize": "strip of 30 tablets",
@@ -2508,7 +2508,7 @@ let data = [
         "category": " Anti Parkinson Drugs "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e5295b6a-f223-4919-87b7-e0373ea0db0a",
         "pname": "Bupron XL 150 Tablet",
         "psize": "strip of 10 tablet mr",
@@ -2520,7 +2520,7 @@ let data = [
         "category": " Anti Smoking Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "562ddb9e-9099-4f81-a17c-d3fe5f523ef8",
         "pname": "Vertin Tablet",
         "psize": "strip of 15 tablets",
@@ -2532,7 +2532,7 @@ let data = [
         "category": " Antivertigo Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a3748a3f-9046-44f2-966d-e20e812d87bb",
         "pname": "Lesuride Tablet",
         "psize": "strip of 10 tablets",
@@ -2544,7 +2544,7 @@ let data = [
         "category": " Atypical Antipsychotics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1967c864-9514-46d4-8791-6f9b40245e05",
         "pname": "Placida Tablet",
         "psize": "strip of 10 tablets",
@@ -2556,7 +2556,7 @@ let data = [
         "category": " Conventional Antipsychotics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "30bcf9de-e52f-4365-94bc-90d0ab7fd5d3",
         "pname": "Dizone Tablet",
         "psize": "strip of 10 tablets",
@@ -2568,7 +2568,7 @@ let data = [
         "category": " Drugs Used In Alcohol Dependence "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "2263ee28-eb4d-41c0-b7e9-5b47ae62d8ea",
         "pname": "Addnok 0.2mg Tablet",
         "psize": "strip of 20 tablets",
@@ -2580,7 +2580,7 @@ let data = [
         "category": " Drugs Used In Opioid Dependence "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "0ee2a433-3bcd-47f1-83e8-05fb7f827b97",
         "pname": "Zolfresh 10mg Tablet",
         "psize": "strip of 15 tablets",
@@ -2592,7 +2592,7 @@ let data = [
         "category": " Hypnotics Sedatives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "037238c7-bc7b-42d3-b38f-3a460097134b",
         "pname": "SR Pevesca Plus 75 Tablet",
         "psize": "strip of 10 tablet sr",
@@ -2604,7 +2604,7 @@ let data = [
         "category": " Neurotonics Other Miscellaneous Drugs "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "43d56ea5-0f83-426a-999b-c885642936f1",
         "pname": "Strocit 500 Tablet",
         "psize": "strip of 10 tablets",
@@ -2616,7 +2616,7 @@ let data = [
         "category": " Nootropics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f6bd1805-722e-4182-bea8-3c6314a5eba9",
         "pname": "Alprax 0.25 Tablet",
         "psize": "strip of 15 tablets",
@@ -2628,7 +2628,7 @@ let data = [
         "category": " Tranquillisers "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e48ef83d-54e4-4ef0-974d-654173b17645",
         "pname": "Refresh Tears Eye Drop",
         "psize": "bottle of 10 ml Eye Drop",
@@ -2640,7 +2640,7 @@ let data = [
         "category": " Artificial Tears And Ocular Lubricants "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "69f1efb1-1ec0-4209-980e-5f6c28d87e1f",
         "pname": "Diamox Tablet",
         "psize": "strip of 15 tablets",
@@ -2652,7 +2652,7 @@ let data = [
         "category": " Miotics And Antiglaucoma Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "7c62381a-9c53-4b77-8d6c-7c0738ae0485",
         "pname": "Homide Eye Drop",
         "psize": "packet of 5 ml Eye Drop",
@@ -2664,7 +2664,7 @@ let data = [
         "category": " Mydriatics And Cyclopegics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "66f9effa-48b9-42b8-aa94-27e57f74ba62",
         "pname": "Olopat Eye Drop",
         "psize": "bottle of 5 ml Ophthalmic Solution",
@@ -2676,7 +2676,7 @@ let data = [
         "category": " Ocular Anti Allergics Decongestants Antiseptics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "af82b320-532f-4ccd-bda8-801387cdc394",
         "pname": "Accentrix Solution for Injection",
         "psize": "vial of 1 Solution for Injection",
@@ -2688,7 +2688,7 @@ let data = [
         "category": " Ocular Antineovascularisation Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "094cb886-e622-4268-90a1-02c77644bbca",
         "pname": "Candiforce 200 Capsule",
         "psize": "strip of 4 capsules",
@@ -2700,7 +2700,7 @@ let data = [
         "category": " Ophthalmological Anti Infectives Medicines "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4742ef17-7bfb-4e89-adb2-6b93d441e049",
         "pname": "Lotepred Eye Drop",
         "psize": "packet of 5 ml Opthalmic Suspension",
@@ -2712,7 +2712,7 @@ let data = [
         "category": " Ophthalmological Corticosteroids "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6257a67c-f343-4adf-8f53-8b27d8931c3a",
         "pname": "Retigraph 20% Injection",
         "psize": "vial of 3 ml Injection",
@@ -2724,7 +2724,7 @@ let data = [
         "category": " Opthalmological Diagnostic Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6be385a3-2a3b-4338-9215-c5a5baad8bf9",
         "pname": "Paracaine Eye Drop",
         "psize": "packet of 5 ml Eye Drop",
@@ -2736,7 +2736,7 @@ let data = [
         "category": " Opthalmological Local Anaesthetics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "8b235d76-5368-4676-8421-eb7eb2dc876a",
         "pname": "Ketorol-DT Tablet",
         "psize": "strip of 15 tablet dt",
@@ -2748,7 +2748,7 @@ let data = [
         "category": " Opthalmological Nsaids "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a4cbbbd2-ab7d-46b7-aec2-eee8c51eb693",
         "pname": "Genteal Eye Drop",
         "psize": "packet of 10 ml Eye Drop",
@@ -2760,7 +2760,7 @@ let data = [
         "category": " Opthalmological Surgical Aids "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "9dd67bb9-5653-41df-b218-da5416c15d27",
         "pname": "Vasicon Eye Drop",
         "psize": "packet of 10 ml Eye Drop",
@@ -2772,7 +2772,7 @@ let data = [
         "category": " Other Opthalmologicals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "61546692-1df7-408a-bd25-9315995ccd7a",
         "pname": "Ciplox Eye/Ear Drops",
         "psize": "bottle of 10 ml Eye/Ear Drops",
@@ -2784,7 +2784,7 @@ let data = [
         "category": " Eye Ear Anti Infectives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "96cad42d-2b44-48a8-a837-35b3ac254384",
         "pname": "Ciplox D Eye/Ear Drops",
         "psize": "packet of 10 ml Eye/Ear Drops",
@@ -2796,7 +2796,7 @@ let data = [
         "category": " Eye Ear Anti Infectives Corticosteroid Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c7e154c6-558f-4287-be7c-9543ae1911e3",
         "pname": "Omnacortil 10 Tablet DT",
         "psize": "strip of 10 tablet dt",
@@ -2808,7 +2808,7 @@ let data = [
         "category": " Eye Ear Corticosteroids "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b7467e6d-6725-4b05-877a-54a3b14ef7a5",
         "pname": "Locula 20% Eye Drop",
         "psize": "bottle of 10 ml Eye Drop",
@@ -2820,7 +2820,7 @@ let data = [
         "category": " Ophthalmological Anti Infectives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "9edcfc49-930a-4569-bd17-3f8a0f8b8cf6",
         "pname": "Neumax 300mcg Injection",
         "psize": "vial of 1 ml Injection",
@@ -2832,7 +2832,7 @@ let data = [
         "category": " Allergens "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f10e1751-4c84-464b-afe2-8641b187ea0a",
         "pname": "Water for Injection Injection",
         "psize": "vial of 10 ml Injection",
@@ -2844,7 +2844,7 @@ let data = [
         "category": " All Other Non Therapeutic Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a03a8a26-32f2-476a-a5f6-c9134b7f5dbb",
         "pname": "Pam 500mg Injection",
         "psize": "vial of 20 ml Injection",
@@ -2856,7 +2856,7 @@ let data = [
         "category": " Antidotes "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "8bc49aac-dc03-4fd0-bd1d-c5bc8c340c91",
         "pname": "Reeshape Capsule",
         "psize": "strip of 15 capsules",
@@ -2868,7 +2868,7 @@ let data = [
         "category": " Antiobesity Preparations Excluding Dietetics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c10c81de-93c2-4dff-b9b0-68e6b735c8ed",
         "pname": "Revlamer 400 Tablet",
         "psize": "strip of 10 tablets",
@@ -2880,7 +2880,7 @@ let data = [
         "category": " Hyperkalaemia Hyperphosphataemia Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ed51874e-3828-46aa-8190-cfd0c305a606",
         "pname": "Omnipaque 300mg Injection",
         "psize": "vial of 10 ml Injection",
@@ -2892,7 +2892,7 @@ let data = [
         "category": " Low Osmolar Angio Urography "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "774155e9-feb1-4fce-8ae1-bab7fc69a304",
         "pname": "Meloset Tablet",
         "psize": "strip of 10 tablets",
@@ -2904,7 +2904,7 @@ let data = [
         "category": " Other Hormones And Preparations With Similar Action "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "cc2efbda-60d1-4df2-801b-7f91d635af28",
         "pname": "Urografin 76% Infusion",
         "psize": "bottle of 50 ml Infusion",
@@ -2916,7 +2916,7 @@ let data = [
         "category": " Radiodiagnostic Agents "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "761d252c-08ad-48af-a3aa-c6909279cabf",
         "pname": "Fostitol Syrup",
         "psize": "bottle of 100 ml Syrup",
@@ -2928,7 +2928,7 @@ let data = [
         "category": " Sweetener "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c6165685-ab51-4772-b596-036f241b765e",
         "pname": "Asklerol 3% Injection",
         "psize": "vial of 2 ml Injection",
@@ -2940,7 +2940,7 @@ let data = [
         "category": " Varicose Therapy Systemic "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "25b29741-79ec-422d-8bd8-446c97c8db41",
         "pname": "Soliwax Ear Drop",
         "psize": "bottle of 10 ml Ear Drop",
@@ -2952,7 +2952,7 @@ let data = [
         "category": " Other Otologicals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ee5c918a-6500-4575-8f08-30a80a6f8323",
         "pname": "Paraxin 500 Capsule",
         "psize": "strip of 10 capsules",
@@ -2964,7 +2964,7 @@ let data = [
         "category": " Otological Anti Infectives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c6a9a52d-bdfe-4733-a8a2-4493c8d0c8ba",
         "pname": "Otiflox Ear Drop",
         "psize": "bottle of 5 ml Ear Drop",
@@ -2976,7 +2976,7 @@ let data = [
         "category": " Otological Anti Infectives Corticosteroid Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b07a4724-ef9b-400c-8327-d0598f99b070",
         "pname": "Isoflurane Usp Liquid For Inhalation",
         "psize": "bottle of 100 ml Solution for inhalation",
@@ -2988,7 +2988,7 @@ let data = [
         "category": " Anaesthetics General Inhalation "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ea48824a-c248-4a7d-878d-34d0c8417144",
         "pname": "Ketamine Hydrochloride 50mg Injection",
         "psize": "vial of 10 ml Injection",
@@ -3000,7 +3000,7 @@ let data = [
         "category": " Anaesthetics General Injectables "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "184c4b64-9ce3-48b0-bfba-738251032025",
         "pname": "Otogesic Ear Drop",
         "psize": "packet of 10 ml Ear Drop",
@@ -3012,7 +3012,7 @@ let data = [
         "category": " Anaesthetics Local "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "9e5aeccf-6de1-404a-a1bb-9c25f357ab7f",
         "pname": "Zyloric Tablet",
         "psize": "strip of 10 tablets",
@@ -3024,7 +3024,7 @@ let data = [
         "category": " Anti Gout Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c682f0d0-87c5-43cf-9367-524e8a4e0463",
         "pname": "Chymoral Forte Tablet",
         "psize": "strip of 20 tablets",
@@ -3036,7 +3036,7 @@ let data = [
         "category": " Anti Inflammatory Enzymes "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "8368b8d8-6563-4345-9fac-dfdcdda719c9",
         "pname": "Zerodol-SP Tablet",
         "psize": "strip of 10 tablets",
@@ -3048,7 +3048,7 @@ let data = [
         "category": " Anti Rheumatics Non Steroidal Systemic "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f03787c8-b575-4fd1-82be-01200df5e5c4",
         "pname": "Osteofos 70 Tablet",
         "psize": "strip of 4 tablets",
@@ -3060,7 +3060,7 @@ let data = [
         "category": " Medicines For Osteoporosis "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6a188cc6-def9-49b5-af3d-8f062f7ce66d",
         "pname": "Liofen 10 Tablet",
         "psize": "strip of 10 tablets",
@@ -3072,7 +3072,7 @@ let data = [
         "category": " Muscle Relaxants Centrally Acting "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "614639ca-e976-4f69-8f44-5801c36cff79",
         "pname": "Artacil 25mg/ml Injection",
         "psize": "vial of 2.5 ml Injection",
@@ -3084,7 +3084,7 @@ let data = [
         "category": " Muscle Relaxants Peripherally Acting "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6bb19166-a201-449a-9152-2c1e45a7680c",
         "pname": "Ultracet Tablet",
         "psize": "strip of 15 tablets",
@@ -3096,7 +3096,7 @@ let data = [
         "category": " Narcotics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a9e737ff-d405-4d6f-b07f-3d7294b9a7ce",
         "pname": "Dolo 650 Tablet",
         "psize": "strip of 15 tablets",
@@ -3108,7 +3108,7 @@ let data = [
         "category": " Non Narcotics And Anti Pyretics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1490b3f6-7e1b-4d6f-8909-74fb1d717985",
         "pname": "Orcerin GM Tablet",
         "psize": "strip of 10 tablets",
@@ -3120,7 +3120,7 @@ let data = [
         "category": " Products For Treatment Of Osteoarthritis "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "abe4b531-27f1-452e-9406-0a486a16e3aa",
         "pname": "Tofe Tablet",
         "psize": "strip of 10 tablets",
@@ -3132,7 +3132,7 @@ let data = [
         "category": " Products For Treatment Of Rheumatoid Arthritis "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "2a918f2c-53f1-499a-b5c3-27978489e4c8",
         "pname": "Lignogesic Gel",
         "psize": "tube of 30 gm Gel",
@@ -3144,7 +3144,7 @@ let data = [
         "category": " Rubefacients "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "9ecf6f63-fed7-4296-b517-3d2e6dce148e",
         "pname": "Cilamin 250 Capsule",
         "psize": "strip of 10 capsules",
@@ -3156,7 +3156,7 @@ let data = [
         "category": " Specific Anti Rheumatic Agents Systemic "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5fa3fe2e-2a70-4925-b010-3a4ec0e5edbc",
         "pname": "Brufen 400 Tablet",
         "psize": "strip of 15 tablets",
@@ -3168,7 +3168,7 @@ let data = [
         "category": " Topical Anti Rheumatic Non Steroidal "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e8bbbf9a-16be-4e0e-b018-3a4fc69c23a0",
         "pname": "Nebzmart-G 25mcg Smartules 2ml",
         "psize": "packet of 5 respules",
@@ -3180,7 +3180,7 @@ let data = [
         "category": " All Other Anti Asthma And Copd Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "0bb3ccb7-445d-407a-b913-d29971a0c0d7",
         "pname": "Benadryl Syrup",
         "psize": "bottle of 150 ml Syrup",
@@ -3192,7 +3192,7 @@ let data = [
         "category": " Antitussive Bronchodilator Expectorant "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "99bd9bc8-39ee-4719-b163-e0ee43089a0f",
         "pname": "Codistar  Syrup",
         "psize": "bottle of 100 ml Syrup",
@@ -3204,7 +3204,7 @@ let data = [
         "category": " Antitussives With Codeine "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c31afa81-ac86-4558-a005-84a38fe8e02c",
         "pname": "Benadryl DR Syrup",
         "psize": "bottle of 100 ml Syrup",
@@ -3216,7 +3216,7 @@ let data = [
         "category": " Antitussives Without Codeine "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "801d9f41-3c9b-457d-aa09-23b21037fe33",
         "pname": "Budecort 0.5mg Respules 2ml",
         "psize": "packet of 5 respules",
@@ -3228,7 +3228,7 @@ let data = [
         "category": " Bronchodilators "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "d2d3f774-0d5e-4875-9806-868b519ec69e",
         "pname": "Ventidox-Bro Tablet",
         "psize": "strip of 10 tablets",
@@ -3240,7 +3240,7 @@ let data = [
         "category": " Bronchodilators Systemic "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "1bf95012-7af2-47c0-b379-8101bbba435d",
         "pname": "Namcold FX Tablet",
         "psize": "strip of 10 tablets",
@@ -3252,7 +3252,7 @@ let data = [
         "category": " Cold Preparations Without Anti Infectives "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "9b59dacd-1004-4196-a1d0-d3d562d1bc38",
         "pname": "Instaryl-P Syrup",
         "psize": "bottle of 100 ml Syrup",
@@ -3264,7 +3264,7 @@ let data = [
         "category": " Expectorants Antitussives Cough Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c2521bcb-1afe-4895-b79f-57151da4c44b",
         "pname": "Curosurf 80mg Injection",
         "psize": "vial of 3 ml Injection",
@@ -3276,7 +3276,7 @@ let data = [
         "category": " Lung Surfactants "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "9ec53e2f-349c-47cb-8521-15b7e723fc74",
         "pname": "AB Phylline Capsule",
         "psize": "strip of 10 capsules",
@@ -3288,7 +3288,7 @@ let data = [
         "category": " Non Steroidal Respiratory Anti Inflammatories "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4e3081bd-e690-47be-aca2-d6024a8f12dd",
         "pname": "Ascoril D Plus Syrup Sugar Free",
         "psize": "bottle of 100 ml Syrup",
@@ -3300,7 +3300,7 @@ let data = [
         "category": " Other Cough Cold Preparations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "18341a9a-bdae-4b9e-bebf-4f2738b42596",
         "pname": "Roflair Tablet",
         "psize": "strip of 10 tablets",
@@ -3312,7 +3312,7 @@ let data = [
         "category": " Pde4 Inhibitors For Asthma Copd "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "62ee3d79-a3ec-44a7-82ac-3f660f030ff5",
         "pname": "Sodium Chloride Injection",
         "psize": "vial of 10 ml Injection",
@@ -3324,7 +3324,7 @@ let data = [
         "category": " Respiratory Stimulants "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "848941e5-027a-4be5-9511-4901b90f4ee5",
         "pname": "Allegra 180mg Tablet",
         "psize": "strip of 10 tablets",
@@ -3336,7 +3336,7 @@ let data = [
         "category": " Systemic Antihistamines "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "25b09fa0-b43e-4306-a3da-e820d99a9189",
         "pname": "Nasivion Child Nasal Drops",
         "psize": "bottle of 10 ml Nasal Drops",
@@ -3348,7 +3348,7 @@ let data = [
         "category": " Topical Nasal Preparations Non Steroidal "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4201b65c-0422-4043-8d09-234bef01ca4c",
         "pname": "Betnesol Tablet",
         "psize": "strip of 20 tablets",
@@ -3360,7 +3360,7 @@ let data = [
         "category": " Topical Nasal Preparations Steroidal "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "3c247899-3ba0-461c-b80a-a2d34a84c201",
         "pname": "Testoviron Depot 250 Injection",
         "psize": "ampoule of 1 ml Injection",
@@ -3372,7 +3372,7 @@ let data = [
         "category": " All Other Therapeutic Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a88c4f94-84b9-4ff6-9881-c6a5de859430",
         "pname": "Manforce 100mg Tablet",
         "psize": "strip of 4 tablets",
@@ -3384,7 +3384,7 @@ let data = [
         "category": " Erectile Dysfunction Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "edade7c5-b220-4a6e-abcf-ec294e8dbb60",
         "pname": "Zytee Dental Gel",
         "psize": "packet of 10 ml Dental Gel",
@@ -3396,7 +3396,7 @@ let data = [
         "category": " Other Stomatologicals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "809166ac-c387-4964-aeb0-da5fcc700294",
         "pname": "Duralast 30 Tablet",
         "psize": "strip of 4 tablets",
@@ -3408,7 +3408,7 @@ let data = [
         "category": " All Other Urological Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "70156823-e7b2-415c-9e67-013ecf13347a",
         "pname": "Urimax D Tablet MR",
         "psize": "strip of 15 tablet mr",
@@ -3420,7 +3420,7 @@ let data = [
         "category": " Benign Prostatic Hypertrophy Bph Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f6b81318-7262-4521-8ba9-bd3847481a1c",
         "pname": "Niftas Tablet SR",
         "psize": "strip of 10 tablet sr",
@@ -3432,7 +3432,7 @@ let data = [
         "category": " Urinary Anti Infectives And Antiseptics "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "0ff5d758-7351-45bb-80ab-9be11e0b0065",
         "pname": "Urispas Tablet",
         "psize": "strip of 15 tablets",
@@ -3444,7 +3444,7 @@ let data = [
         "category": " Urinary Incontinence Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5eed4c65-061e-455d-b97b-b7ba1b3885ab",
         "pname": "Boostrix Vaccine",
         "psize": "prefilled syringe of 0.5 ml Injection",
@@ -3456,7 +3456,7 @@ let data = [
         "category": " All Other Vaccines "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "ee6d4ae8-42e9-4523-a273-68b74c74c20b",
         "pname": "Hexaxim Vaccine",
         "psize": "prefilled syringe of 0.5 ml Suspension for Injection",
@@ -3468,7 +3468,7 @@ let data = [
         "category": " Antitoxic Sera "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "63ef676a-fa0b-4827-a2a9-e4f4ab299067",
         "pname": "Menactra Vaccine",
         "psize": "vial of 1 Solution for Injection",
@@ -3480,7 +3480,7 @@ let data = [
         "category": " Combination Of Vaccines "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "93932f41-fe6a-44f5-b3f8-bd9d14b2791b",
         "pname": "Immunorel 5gm Solution for Infusion",
         "psize": "bottle of 100 ml Solution for Infusion",
@@ -3492,7 +3492,7 @@ let data = [
         "category": " Homologous Immunologically Active Globulins Intravenous "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "3e184d90-cde9-4961-bdd6-6d42c045be2c",
         "pname": "Bharglob 16.5% Injection",
         "psize": "vial of 2 ml Injection",
@@ -3504,7 +3504,7 @@ let data = [
         "category": " Polyvalent Immunoglobulins Intramuscular "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "961d4cd7-5451-42a7-93a5-416c2bd88f00",
         "pname": "Influvac Tetra 2020/2021 Vaccine",
         "psize": "prefilled syringe of 0.5 ml Suspension for Injection",
@@ -3516,7 +3516,7 @@ let data = [
         "category": " Pure Vaccines "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "65935d5c-4ab9-41a0-a1e0-e68e404a10aa",
         "pname": "Neuronox 100IU Injection",
         "psize": "vial of 1 Injection",
@@ -3528,7 +3528,7 @@ let data = [
         "category": " Specific Immunoglobulins Antibacterial "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "571cc9d4-7b47-4d85-8406-034a423827f1",
         "pname": "Hepatitis B Injection",
         "psize": "prefilled syringe of 5 ml Injection",
@@ -3540,7 +3540,7 @@ let data = [
         "category": " Specific Immunoglobulins Antiviral "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f6d97bd5-7fb4-4812-bafe-8690aedfadb2",
         "pname": "Aminowel Infusion",
         "psize": "bottle of 250 ml Infusion",
@@ -3552,7 +3552,7 @@ let data = [
         "category": " Amino Acid Solutions Except Those Containing Fats "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "a8c60a8f-e417-4d16-8f0b-536a282169dc",
         "pname": "Sorbiline Syrup",
         "psize": "bottle of 200 ml Syrup",
@@ -3564,7 +3564,7 @@ let data = [
         "category": " Appetite Stimulants "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "c56bfd21-5820-4108-87d7-cb3b71392e02",
         "pname": "Optineuron Injection",
         "psize": "ampoule of 3 ml Injection",
@@ -3576,7 +3576,7 @@ let data = [
         "category": " B Complex "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "6834b6bd-5e06-4ce8-9a83-b231d3fca9f5",
         "pname": "Calciluvin Syrup",
         "psize": "bottle of 100 ml Syrup",
@@ -3588,7 +3588,7 @@ let data = [
         "category": " Calcium Others "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "03166fa7-6351-4398-bd44-fbc9ab8f0e6c",
         "pname": "Osteofit-HD Tablet",
         "psize": "strip of 15 tablets",
@@ -3600,7 +3600,7 @@ let data = [
         "category": " Calcium Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "f037e9ad-51a0-41b9-bf16-edc58343b0fa",
         "pname": "Cognivel Tablet",
         "psize": "strip of 10 tablets",
@@ -3612,7 +3612,7 @@ let data = [
         "category": " Kanpo And Chinese Medicines "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "e9bb53da-48e0-4c5d-aa21-bbeeb825e8e7",
         "pname": "Meganeuron OD Plus Capsule",
         "psize": "strip of 10 capsules",
@@ -3624,7 +3624,7 @@ let data = [
         "category": " Methylcobalamin Combinations "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "dbe8f0b6-10d7-445d-b4d2-25ec79ef3993",
         "pname": "B-VIT 12 Injection",
         "psize": "vial of 30 ml Injection",
@@ -3636,7 +3636,7 @@ let data = [
         "category": " Methylcobalamin Plain "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "84ac5f34-f798-4d5c-ac95-001b87dbb821",
         "pname": "M.V.I. Injection",
         "psize": "ampoule of 10 ml Injection",
@@ -3648,7 +3648,7 @@ let data = [
         "category": " Modern Anti Oxidants "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "767c948c-61e7-4b7e-afc0-61764383604e",
         "pname": "Calcigo Max Softgel Capsule",
         "psize": "strip of 10 soft gelatin capsules",
@@ -3660,7 +3660,7 @@ let data = [
         "category": " Multivitamin With Minerals "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "8ae2c2c7-9529-42de-925d-96fef9fc90e0",
         "pname": "Lupilyzer Oral Solution",
         "psize": "bottle of 200 ml Oral Solution",
@@ -3672,7 +3672,7 @@ let data = [
         "category": " Other Mineral Supplements "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "24b66125-2204-46ab-b3b7-f7a5c6e74f9a",
         "pname": "Nurokind-LC  Tablet",
         "psize": "strip of 15 tablets",
@@ -3684,7 +3684,7 @@ let data = [
         "category": " Other Nutrients "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "4543ae86-557d-4d01-a94f-ccbe0bf456f8",
         "pname": "Uprise-D3 60K Capsule",
         "psize": "strip of 8 capsules",
@@ -3696,7 +3696,7 @@ let data = [
         "category": " Other Vitamins "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "b79cbd68-dff5-4116-9dab-f0335c808273",
         "pname": "Kcl Injection",
         "psize": "vial of 10 ml Injection",
@@ -3708,7 +3708,7 @@ let data = [
         "category": " Potassium Products "
     },
     {
-        "site": "1mg",
+        "site name": "1mg",
         "id": "5575e709-d2ab-4607-af24-2f3973444ec0",
         "pname": "Nervic-Plus Injection",
         "psize": "vial of 2 ml Injection",
@@ -3720,4 +3720,5 @@ let data = [
         "category": " Traditional Antioxidants Multivit Multimineral "
     }
 ];
+
 module.exports = data;
