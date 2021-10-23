@@ -1,2 +1,2 @@
 let data = [];
-modeule.exports = data;
+module.exports = data;

@@ -33,6 +33,7 @@ let options = [];
 
 app.get("/", (req, res) => {
   //GET DATA FROM DATABASE
+  //Styling confict
   MedBazaar.find({}, function (err, medicines) {
     if (err) {
       console.log(err);
@@ -41,7 +42,6 @@ app.get("/", (req, res) => {
         options.push(med.name);
       });
     }
-    // console.log(options);
     res.render("index", {params: options})
   });
 
