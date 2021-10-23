@@ -1,11 +1,18 @@
 # MedBazzar
 ### -Save Money on Every Prescrption
 
+![medBazzar](https://user-images.githubusercontent.com/68412756/138566682-7f5ae4b3-be92-4c65-985c-ec4f7d3e23a9.png)
 
-[!logo image]
+Link for the website is [Here](https://medbazzar.herokuapp.com/)
 
 MedBazzar is a online website that compares the prices across all the medicine sites. 
 To provide the cheapest medicine available at online stores at one place
+
+![image](https://user-images.githubusercontent.com/68412756/138566735-dd66badd-ee2a-4458-8938-6c8cd7489cde.png)
+
+![image](https://user-images.githubusercontent.com/68412756/138566748-3da81f91-f5f7-4ede-bee9-c43c641b8c4d.png)
+
+
 
 
 - ✨Saves your time
@@ -18,6 +25,9 @@ To provide the cheapest medicine available at online stores at one place
 - Compare prices for medicine for more than one site like
 - - 1mg  [!1mg logo]
 - - netmeds [!netmeds logo]
+
+![image](https://user-images.githubusercontent.com/68412756/138566771-7f13da25-f487-4ead-90bf-1dfbcb6507ed.png)
+
 
 
 
