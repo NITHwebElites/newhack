@@ -63,13 +63,12 @@ header {
 
 }
 .brandlogo {
-    background-image: url("../assets/images//medBazzar.png");
+    background-image: url("../assets/medBazzar.png");
     background-repeat: no-repeat;
     background-size: contain;
     width: 15%;
     height: 50px;
     transform: scale(1.9);
-    filter: invert(100%);
 }
 header ul {
     display: flex;

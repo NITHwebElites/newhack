@@ -77,6 +77,6 @@ app.post("/message", (req,res)=>{
   res.redirect("/");
 })
 
-app.listen(8000, () => {
+app.listen(process.env.PORT || 8000, () => {
   console.log("Server is listening to port 8000");
 });
