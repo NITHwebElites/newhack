@@ -176,6 +176,23 @@ header li:nth-of-type(4):hover {
     background-size: 30%;
     background-position: 5%;
     background-repeat: no-repeat ;
+    font-size: 1.7rem;
+    transition: 200ms;
+    
+}
+.working_card,.dev:hover{
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.199);
+
+}
+.working_card h3 {
+   color: rgb(31, 31, 31);
+    letter-spacing: 2px;
+
+}
+.working_card p {
+    color: rgb(61, 61, 61);
+    font-size: 1.4rem;
+    text-align: left;
 }
 .working_card:nth-of-type(1) {
     background-image: url(./assets//images/person/person1.png);
@@ -196,49 +213,75 @@ header li:nth-of-type(4):hover {
 .about {
     height: 100vh;
     margin-top: 50vh;
-    margin-bottom: 20vh;
+    margin-bottom:60vh;
     padding: 10vh 15vw;
     display: flex;
+   
 }
 .about_text{
     display: flex;
     flex-direction: column;
-    width: 40%;
-    height: 80%;
-    justify-content: space-evenly;
+    width: 50%;
+    padding-top: 40vh;
+    justify-content: center;
     align-items: flex-start;
     align-self: center;
+    font-size: 1.2rem;
+    text-align: left;
+    
+    
+}
+.about_text p {
+    text-align: left;
+    margin: 3vh 0;
+    line-height: 2.5rem;
 }
 .developers {
     display: flex;
     flex-direction: column;
-    flex-basis: 80%;
+    flex-basis: 90%;
     padding-left: 6vw;
     
 
 }
 .dev {
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.199);
-    width: 80%;
+    width: 90%;
     border-radius: 15px;
     background-color: #a6bff393;
     display: flex;
     padding: 10px 15px;
+    align-items: center;
+    transition: 200ms;
 
 }
 .dev > img {
-    width: 70px;
+    width: 90px;
+    height: 90%;
     border-radius: 10px;
+    opacity: 0.9;
 }
 .dev div {
     text-align: left;
     margin-left: 10px;
+
+}
+.dev div p {
+    text-align: left;
+    margin: 1vh 0;
 }
 .dev a {
     text-decoration: none;
     color: black;
     margin-right: 1rem;
     font-size: 1.2rem;
+}
+.dev a i {
+    transition: 200ms;
+}
+.dev a i:hover {
+    transform: scale(1.2);
+    text-shadow: 0px 0px 10px var(--navy-blue);
 }
 .dev:nth-of-type(1) {
 
